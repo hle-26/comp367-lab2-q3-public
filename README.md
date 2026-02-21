@@ -1,1 +1,6 @@
-# comp367-lab2-public
+# COMP367 Lab 2 Public Repository
+
+This repository was created as part of the DevOps Implementation Lab 2 requirement.
+
+Author: Henry
+Course: COMP367
